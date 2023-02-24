@@ -1,5 +1,4 @@
 # Concert Tracker
-[Demo](https://concert_tracker.zachtheprogrammer.com/)
 This is a php/Laravel web app that records concerts you have attended.
 Band/ Concert information retrieved from the setlist.fm api
 ## Limitations:
